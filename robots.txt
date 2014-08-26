@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://teaplant.github.io/sitemap.xml 
