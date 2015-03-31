@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://teaplant.github.io/atom.xml" rel="self"/>
   <link href="http://teaplant.github.io/"/>
-  <updated>2014-08-26T17:19:58+08:00</updated>
+  <updated>2014-08-26T17:36:48+08:00</updated>
   <id>http://teaplant.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[New Post]]></title>
+    <link href="http://teaplant.github.io/blog/2014/08/26/new-post/"/>
+    <updated>2014-08-26T17:36:36+08:00</updated>
+    <id>http://teaplant.github.io/blog/2014/08/26/new-post</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Newtitle]]></title>
+    <link href="http://teaplant.github.io/blog/2014/08/26/newtitle/"/>
+    <updated>2014-08-26T17:34:38+08:00</updated>
+    <id>http://teaplant.github.io/blog/2014/08/26/newtitle</id>
+    <content type="html"><![CDATA[<p>这是第一遍博文，真心好难弄。</p>
+]]></content>
+  </entry>
   
 </feed>
